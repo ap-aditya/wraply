@@ -1,6 +1,6 @@
 # 🍔 Wraply - Food Delivery System
 
-![Wraply Logo](/logo.jpg)
+<img src="/public/logo.jpg" alt="Wraply Logo" width="100" height="100" style="display: block; margin: auto;"/>
 
 Wraply is a food delivery system frontend application built with React and Vite. It includes a dummy backend using Express for demonstration purposes.
 
